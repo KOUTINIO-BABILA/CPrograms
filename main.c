@@ -3,7 +3,7 @@
 
 int main()
 {
-    int n1, n2, sum;
+    /* int n1, n2, sum;
 
     printf("Enter the first num");
     scanf("%d", &n1);
@@ -14,5 +14,8 @@ int main()
     sum = n1+n2;
 
     printf("The sum of this 02 number is : %d", sum);
+    */
+
+    printf("Hello wordl")
     return 0;
 }
