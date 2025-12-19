@@ -16,6 +16,6 @@ int main()
     printf("The sum of this 02 number is : %d", sum);
     */
 
-    printf("Hello wordl")
+    printf("Hello wordl");
     return 0;
 }
